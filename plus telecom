@@ -1,0 +1,34 @@
+<?php
+session_abort();
+
+?>
+
+<empajbs!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <title>LUNET TELECON</title>
+    <link rel="stylesheet" href="css/estilo.css">
+    </head>
+    <body>
+	
+		<img src=index>
+    <main>
+        <img Class="logo" src="imagem/novo.PNG" width="170px" alt="">
+        <form method="post" action="valida.php"
+
+    <h1 class="band-name">LUNET TELECON</h1>
+    <h2 class="headline">A SUA INTERNET MELHORADO CADA DIA MAS! </h2>
+    <p>Confira sua conta. Para a sua internet não ser contada!</p>
+    <form class="box" action="teste.php" method="post">
+      <h1>login</h1>
+      <input type="text"name="email"placeholder="Email">
+        <input type="password"name="senha"placeholder="Senha">
+        <input type="submit"  value="login">
+
+    </form>
+    <hr>
+	
+  </body>
+
+
+</html>
